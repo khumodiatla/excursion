@@ -14,6 +14,30 @@ h1 {
 
 a {
   color: aquamarine;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
+}
+
+main {
+  text-align: center;
+}
+
+section h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+p {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+
+#copyright {
+  color: gray;
+  text-align: right;
+  font-size: 20px;
 }
